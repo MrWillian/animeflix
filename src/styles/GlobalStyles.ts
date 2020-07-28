@@ -10,6 +10,7 @@ export default createGlobalStyle`
   body {
     margin: 0;
     padding: 0;
+    background-color: #ac2066;
   }
 
   a {
@@ -29,8 +30,8 @@ export default createGlobalStyle`
   }
   
   :root {
-    --primary: #2A7AE4;
-    --black: #000000;
+    --primary: rgb(182, 40, 111); 
+    --black: #4F2066;
     --blackLighter: #9E9E9E;
     --grayLight: #F5F5F5;
     --grayMedium: #e5e5e5; 
