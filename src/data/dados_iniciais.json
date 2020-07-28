@@ -1,0 +1,65 @@
+{
+  "categorias": [
+    {
+      "titulo": "Ei Nerd",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#835ADB",
+      "link_extra": {
+        "text": "Canal EI Nerd",
+        "url": "https://www.youtube.com/user/einerdtv"
+      },
+      "videos": [
+        {
+          "titulo": "ANIMES QUE VÃO BOMBAR NESSA TEMPORADA 2020",
+          "url": "https://www.youtube.com/watch?v=ZZYWgUIBXj0"
+        },
+        {
+          "titulo": "QUAL O NÍVEL DE FORÇA DO SAITAMA?",
+          "url": "https://www.youtube.com/watch?v=-dvqRwyQtT4"
+        },
+        {
+          "titulo": "ICHIGO VS ULQUIORRA: VEJA COMO FOI",
+          "url": "https://www.youtube.com/watch?v=yEa9ayWOJwE"
+        },
+        {
+          "titulo": "LUFFY: AS MAIORES VITÓRIAS E DERROTAS",
+          "url": "https://www.youtube.com/watch?v=ILIfrsNN4ic"
+        },
+        {
+          "titulo": "POR QUE O VEGETA DISSE: 'O MISERÁVEL É UM GÊNIO'?",
+          "url": "https://www.youtube.com/watch?v=nzko_sjc3ZU"
+        },
+        {
+          "titulo": "ENDEAVOR, O HERÓI MITO! - BOKU NO HERO EP 25X04",
+          "url": "https://www.youtube.com/watch?v=d6J0p4V1Aio"
+        }      
+      ]
+    },
+    {
+      "titulo": "Hero Experience",
+      "cor": "#5A5EC4",
+      "link_extra": {
+        "text": "Canal Hero Experience",
+        "url": "https://www.youtube.com/channel/UCHGsrId1MDYUhqrjvsAkQVw"
+      },
+      "videos": [
+        {
+          "titulo": "REVELADO QUE BORUTO VAI LUTAR CONTRA ISSHIKI NO MANGÁ 49! BORUTO VS ISSHIKI",
+          "url": "https://www.youtube.com/watch?v=FQ4kUxJvHow"
+        },
+        {
+          "titulo": "O ÚLTIMO SACRIFÍCIO DE MERUS NO MANGÁ DE DRAGON BALL SUPER! MERUS VS MORO 73",
+          "url": "https://www.youtube.com/watch?v=WxpA-gr_Nwc"
+        },
+        {
+          "titulo": "🤼🏟️ THE GOD OF HIGHSCHOOL É O MELHOR ANIME DE 2020?",
+          "url": "https://www.youtube.com/watch?v=z9lLm2o1Gqk"
+        },
+        {
+          "titulo": "O JOUGAN É A CHAVE PARA O BORUTO CONTROLAR O KARMA E O MOMOSHIKI",
+          "url": "https://www.youtube.com/watch?v=jYQJR4bu6wk&t=348s"
+        }
+      ]
+    }
+  ]
+}
